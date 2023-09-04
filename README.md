@@ -1,2 +1,1 @@
-# 5PL
-5PL curve fit JavaScript
+# 5PL Curve Fit mit Funktion zur nichtlinearen Regression mit Anfangswerten
